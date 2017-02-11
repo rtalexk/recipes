@@ -1,0 +1,6 @@
+Ingredients:
+    - A pinch of salt
+    - One tortilla
+
+Directions:
+    - Add salt to the tortilla.
